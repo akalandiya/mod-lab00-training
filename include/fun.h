@@ -1,4 +1,5 @@
 // Copyright 2022 UNN-IASR
+#pragma once
 #ifndef INCLUDE_FUN_H_
 #define INCLUDE_FUN_H_
 #include <cstdint>
